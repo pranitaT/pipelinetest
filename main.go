@@ -1,3 +1,6 @@
 import fmt
 
-fmt.printf("test")
+
+func main() {
+  fmt.printf("test")
+}
